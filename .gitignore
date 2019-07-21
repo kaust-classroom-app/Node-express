@@ -2,7 +2,10 @@
 config.json
 firebaseConfig.json
 
+<<<<<<< HEAD
 #ds_store
+=======
+>>>>>>> master
 .DS_Store
 
 # .idea
@@ -69,6 +72,9 @@ typings/
 
 # next.js build output
 .next
+<<<<<<< HEAD
 
 # Node modules
 /node_modules
+=======
+>>>>>>> master
