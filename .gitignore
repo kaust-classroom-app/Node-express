@@ -2,6 +2,7 @@
 config.json
 firebaseConfig.json
 
+#ds_store
 .DS_Store
 
 # .idea
@@ -68,3 +69,6 @@ typings/
 
 # next.js build output
 .next
+
+# Node modules
+/node_modules
